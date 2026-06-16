@@ -4,8 +4,8 @@ Replaced background image karaoke with opacity-based karaoke.
 
 ### Spotlight Style
 
-![webp of Spotlight Style](/Screen Recording - 1.webp)
+![webp of Spotlight Style](/Screen_Recording-1.webp)
 
 ### Trailing Light Style
 
-![webp of Trailing Light Style](/Screen Recording - 2.webp)
+![webp of Trailing Light Style](/Screen_Recording-2.webp)
