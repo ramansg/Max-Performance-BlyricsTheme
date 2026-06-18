@@ -1,6 +1,6 @@
-# Max-Performance - Better Lyrics Theme - v0.0.1
+# Max-Performance - Better Lyrics Theme - v0.0.3
 
-Replaced background image karaoke with opacity-based karaoke.
+Replaced background image karaoke with opacity-based karaoke. Visibility level of all the text in the lyrics can be easily edited.
 
 ### Spotlight Style
 
