@@ -6,8 +6,6 @@ Replaced background image karaoke with opacity-based karaoke. Visibility level o
 
 ![webp of Spotlight Style](https://raw.githubusercontent.com/ramansg/Max-Performance-BlyricsTheme/refs/heads/main/images/Screen_Recording-1.webp)
 
-blob:https://github.com/ea24d5bf-4ec8-4dad-93ee-1fc67592f18c
-
 ![webp of Spotlight Style](https://raw.githubusercontent.com/ramansg/Max-Performance-BlyricsTheme/refs/heads/main/images/Screen_Recording-3.webp)
 
 ### Trailing Light Style
