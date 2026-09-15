@@ -1,6 +1,6 @@
 # Opacity-based Karaoke - Better Lyrics Theme
 
-Change the default karaoke experience!
+Change the default karaoke experience! Enable blur! or disable Minimal!
 
 ### Four Distinct Styles
 
