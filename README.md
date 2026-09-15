@@ -2,9 +2,14 @@
 
 Change the default karaoke experience!
 
-### Four Distinct Richsync Styles
+### Four Distinct Styles
 
 The style can easily be changed using a single word.
+
+```
+$karaoke-style: reveal;
+/* reveal / flash / trail / spotlight */
+```
 
 ![webp of Spotlight Style](https://raw.githubusercontent.com/ramansg/Max-Performance-BlyricsTheme/refs/heads/main/images/hero-image.webp)
 
@@ -20,8 +25,11 @@ $blur-amount: 30px;
 /* only matters when enable-blur is on */
 ```
 
-Setting `$enable-blur` to `off` skips the blur effect completely rather than just reducing it to zero.
-
 ### Minimal Toggle
 
 The minimal theme is turned on by default, can easily be turned off by a toggle!
+
+```
+$enable-minimal: on;
+/* on / off */
+```
