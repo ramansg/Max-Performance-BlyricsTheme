@@ -2,7 +2,7 @@
 
 Change the default karaoke experience! Enable blur! or disable Minimal!
 
-### Four Distinct Styles
+## Four Distinct Styles
 
 The style can easily be changed using a single word.
 
@@ -13,7 +13,7 @@ $karaoke-style: reveal;
 
 ![webp of Spotlight Style](https://raw.githubusercontent.com/ramansg/Max-Performance-BlyricsTheme/refs/heads/main/images/hero-image.webp)
 
-### Background Blur Toggle
+## Background Blur Toggle
 
 Blur is a heavy effect, so it's disabled by default. But it can be easily dialled down or simply turned on/off.
 
@@ -25,7 +25,7 @@ $blur-amount: 30px;
 /* only matters when enable-blur is on */
 ```
 
-### Minimal Toggle
+## Minimal Toggle
 
 The minimal theme is turned on by default, can easily be turned off by a toggle!
 
