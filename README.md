@@ -1,3 +1,5 @@
+> NOTE: THEME ONLY WORKS ON EXTENSION VERSION BELOW 2.4.0
+
 # Opacity-based Karaoke - Better Lyrics Theme
 
 Change the default karaoke experience! Enable blur! or disable Minimal!
