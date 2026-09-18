@@ -1,4 +1,4 @@
-> NOTE: THEME ONLY WORKS ON EXTENSION VERSION BELOW 2.4.0
+![Incompatibility Notice](https://raw.githubusercontent.com/ramansg/Max-Performance-BlyricsTheme/refs/heads/main/images/warning.webp)
 
 # Opacity-based Karaoke - Better Lyrics Theme
 
