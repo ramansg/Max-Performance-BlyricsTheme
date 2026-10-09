@@ -1,5 +1,4 @@
 
-
 /* NOTE: THEME ONLY WORKS ON EXTENSION VERSION 2.4.0 OR NEWER */
 /* ALTERNATIVE VARIANT: line fades are on .blyrics--line instead. v3.0.0 is the base build. */
 /* It seems that might have been a bad move. I've beeeeeen hereeee beforeee*/
@@ -9,8 +8,8 @@
  * v3.1.16-alternative blyrics-theme-2026-10-09T19-07-51
  * 2026-10-05
  *
- * NOTE: - Still pretty much alpha - pip isnt fixed yet
- *       - Uses an older version of minimal - i need to make some dreaded performance fixes
+ * NOTE: - Still pretty much alpha - pip is kinda fixed
+ *       - Uses a slightly older version of minimal - some merges to and from minimal are needed
  *
  * Please be careful removing something.
  *
